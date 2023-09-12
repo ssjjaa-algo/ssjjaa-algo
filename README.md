@@ -7,6 +7,7 @@
 
 <!--TECH STACK -->
 <h2>Programming</h2>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
