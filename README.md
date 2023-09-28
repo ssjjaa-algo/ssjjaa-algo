@@ -23,4 +23,4 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWSEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
 
 <h2>Contact</h2>
-<a href="[#](https://kksjae.notion.site/d520ce6c1e1d478ca8862a22c03150e6?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="[#](https://kksjae.notion.site/780a759e7a4047f3b37fbe022205c690?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
