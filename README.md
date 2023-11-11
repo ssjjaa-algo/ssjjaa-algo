@@ -1,5 +1,5 @@
 
-## 👋 I'm prepared to backend developers
+## 👋 I'm preparing to backend developers
 
 ### Like
 - **Reading books related to programming** </br>
