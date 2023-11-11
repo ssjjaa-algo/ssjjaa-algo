@@ -1,5 +1,12 @@
 
-## 👋 백엔드 개발자를 준비하고 있습니다.
+## 👋 I'm prepared to backend developers
+
+### Like
+- **Reading books related to programming** </br>
+- **Talking about programming with someone** </br>
+- **Write code based on logic**
+- **Object Oriented Programming**
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssjjaa-algo&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lll_lll)](https://solved.ac/lll_lll/)
