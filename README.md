@@ -1,5 +1,4 @@
 
-## 👋 this is my portfolio → <a href="https://kksjae.notion.site/780a759e7a4047f3b37fbe022205c690?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 ### Like
 - **Backend Devloper**
 - **Reading books related to programming** </br>
